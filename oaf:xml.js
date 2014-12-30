@@ -1,0 +1,1 @@
+Xml = Npm.require('xml')
